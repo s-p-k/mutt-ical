@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf8 -*-
+#!/usr/bin/python2.7
 
 """
 This script is meant as a simple way to reply to ical invitations from mutt.
